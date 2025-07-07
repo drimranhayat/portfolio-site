@@ -88,8 +88,8 @@ a.button:hover {
   background-color: #005fa3;
 }
 header img {
-  width: 80px;
-  border-radius: 50%;
+  width: 100px;
+  border-radius: 70%;
   display: block;
   margin: 0 auto 20px;
 }
@@ -191,7 +191,7 @@ header img {
 
 @media (max-width: 768px) {
   header img {
-    width: 120px;
+    width: 100px;
   }
 
   h1 {
